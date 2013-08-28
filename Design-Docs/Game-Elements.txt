@@ -1,0 +1,25 @@
+========Switches=======
+Considerations:
+*Number of ports
+*Number of gigbit ports
+*PoE capabilities
+*Uplink ports--backbone/trunk lines
+*Management (a time consideration for maintenance/upgrades)
+
+Players need to make good investments in their network backbone
+in order to continue to stay ahead of the game in later levels.
+======================
+
+=====Access Points====
+Considerations:
+*Radio bands
+*Management
+*MIMO
+*Power needs
+*Range/signal strength
+*Max number of clients
+
+Placement and movement of access points to cover needed zones
+one of the main mechanics.  Walls, plumbing, wiring, and lights
+are all sources of interference.
+=====================
